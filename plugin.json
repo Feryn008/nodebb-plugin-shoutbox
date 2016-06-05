@@ -2,7 +2,7 @@
   "id": "nodebb-plugin-shoutbox",
   "name": "Shoutbox",
   "description": "NodeBB Plugin Shoutbox",
-  "url": "https://github.com/Schamper/nodebb-plugin-shoutbox",
+  "url": "https://github.com/Feryn008/nodebb-plugin-shoutbox",
   "library": "./library.js",
   "hooks": [
     { "hook": "static:app.load", "method": "init.load" },
@@ -28,5 +28,5 @@
     "public/js/admin.js",
     "public/js/lib/"
   ],
-  "templates": "./templates"
+  "templates": "./templates2"
 }
